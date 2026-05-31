@@ -215,3 +215,12 @@ Results
 The RESTful API for the Library Management System was successfully developed and tested. All CRUD operations worked correctly, and the API returned valid JSON responses. The project met all the required objectives and demonstrated the practical implementation of backend development concepts.
 
 #OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ebcebd08-ba97-40e8-8f6e-695136014e10" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6480823d-df67-4493-bfcb-021f76059d75" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fa76ffd6-f71b-492d-b2e1-154bea6ed4f3" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8d890149-0b8e-4a6b-af3c-ae391f7decff" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/31e0ca8d-4652-46e6-8e42-883d3d5ca475" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9a4b6ae3-b7ae-47bb-9715-5b4b96830f8f" />
